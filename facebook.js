@@ -48,7 +48,7 @@ function Facebook(accessToken, groupId)
             `# TIN TỨC BUỔI SÁNG ${date}\n` +
             '\n' +
             '## thông tin\n' +
-            '* Bài viết được tự động đăng lúc 7 giờ trưa hàng ngày\n' +
+            '* Bài viết được tự động đăng lúc 7 giờ sáng hàng ngày\n' +
             '* Đây là post tự động được lấy dữ liệu từ VnExpress qua RSS ');
         formPublish.append('formatting', 'MARKDOWN');
 
